@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taaza Khabar</string>
+    <string name="taaza_khabar">Ajj Ki Taaza Khabar</string>
+    <string name="read_further">Read Further > </string>
+    <string name="error_msg">Error Encountered</string>
+    <string name="no_results_in_cache">No results in cache. Please turn on network</string>
+</resources>
